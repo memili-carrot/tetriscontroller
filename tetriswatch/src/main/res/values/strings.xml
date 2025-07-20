@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tetris Watch</string>
+    <string name="left_btn">⬅️</string>
+    <string name="right_btn">➡️</string>
+    <string name="rotate_btn">⟳</string>
+    <string name="drop_btn">⬇️</string>
+    <string name="preview_placeholder">⬛⬛⬛⬛</string>
+</resources>
